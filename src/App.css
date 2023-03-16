@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,400&display=swap');
+
+
+.cafeCienfuegos {
+    color: #ffffff;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    font-size: 75px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    letter-spacing: 25px;
+    font-weight: 600;
+    font-family: 'Michroma', sans-serif; }
+
+    body {
+        background-color: #C4BAA0;
+    }
